@@ -1,0 +1,11 @@
+Analysis,Result
+Win Percentage,50%
+Draw Percentage,30%
+Loss Percentage,20%
+Average Game Length,39.60 moves
+Median Game Length,40.50 moves
+Standard Deviation of Moves,7.41 moves
+Safe Strategy Expected Value,2.20
+Risky Strategy Expected Value,2.20
+Safe Strategy Risk,1.60
+Risky Strategy Risk,6.37
